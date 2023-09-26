@@ -1,0 +1,19 @@
+.navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.icon {
+  font-size: 2rem;
+  color: #6900ff;
+}
+
+.blue {
+  color: darkgray;
+}
+
+.login:hover {
+  transform: scale3d(1.1, 1.1, 1.1);
+  transition: 0.3s ease-in-out;
+}
